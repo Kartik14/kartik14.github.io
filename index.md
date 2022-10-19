@@ -6,4 +6,4 @@ I did my BSc with computer science as major from Indian Institute of Technology,
 
 contact: # kartikkhandelwal1998 # at gmail.com (remove #'s)
 
-[CV]()|[github](https://github.com/Kartik14)
+[CV](docs/CV.pdf)|[github](https://github.com/Kartik14)
